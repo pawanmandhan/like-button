@@ -34,3 +34,7 @@ body {
   border-color: var(--active-color);
   color: white;
 }
+
+.error {
+  font-size: 12px;
+}
